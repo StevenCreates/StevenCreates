@@ -6,8 +6,6 @@ Welcome to my GitHub profile!
 🎓 deep diving [react][react], [python3][python3], and [aws][aws] <br />
 📫 How to reach me: steven@stevencreates.tech <br />
 
-🏡 [website][website] **|**
-👔 [linkedin][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/steven-hofheins/
 
