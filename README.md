@@ -1,17 +1,17 @@
-Life learner, Life is Abundant Weird Brain :alien:
+Life learner | Life is Abundant | Weird Brain :alien:
 
 Here is what I'm up to:
 
-- 💻 Working as a Technical Engineer over at **[Adobe](https://adobe.com)**
-- ☀️ Coding with **[React](https://reactjs.org/)
-- 🛠 Getting myself into Python.
+- :moneybag: Working as a Technical Engineer over at **[Adobe](https://adobe.com)**
+- :rocket: Coding with **[React](https://reactjs.org/)
+- :snake: Getting myself into Python.
 
 <details>
   <summary>More Facts</summary>
 
 
   - I may play a little to much **[Apex Legends](https://apex.tracker.gg/profile/xbl/LEVELxTREE)**
-  - I love to draw and create. ⭐️
+  - I love to draw and create. :pencil2:
   - Don't tell anyone but I love pokemon.
   
 
