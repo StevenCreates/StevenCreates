@@ -18,7 +18,6 @@ Here is what I'm up to:
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=StevenCreates&show_icons=true&theme=radical)
   
-  ![Visitor Count](https://profile-counter.glitch.me/StevenCreates/count.svg)
   <br><br>
 </details>
 
