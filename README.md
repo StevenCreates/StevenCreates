@@ -1,4 +1,4 @@
-![Banner](https://github.com/StevenCreates/StevenCreates/blob/master/bannercreates.png)
+
 
 Life learner | Life is Abundant | Weird Brain :alien:
 
