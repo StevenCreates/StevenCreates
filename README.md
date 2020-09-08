@@ -3,7 +3,7 @@ Life learner | Life is Abundant | Weird Brain :alien:
 Here is what I'm up to:
 
 - :moneybag: Working as a Technical Engineer over at **[Adobe](https://adobe.com)**
-- :rocket: Coding with **[React](https://reactjs.org/)
+- :rocket: Coding with **[React](https://reactjs.org/)**
 - :book: Working on writing more medium articles **[Medium](https://medium.com/@steven_creates)**
 - :snake: Getting myself into Python.
 
