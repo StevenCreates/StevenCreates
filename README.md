@@ -16,7 +16,7 @@ Here is what I'm up to:
   - I love pokemon. 
   
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=StevenCreates&show_icons=true&theme=nord)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=StevenCreates&show_icons=true&theme=radical)
   <br><br>
 </details>
 
