@@ -5,7 +5,7 @@ Life learner | Life is Abundant | Weird Brain :alien:
 Here is what I'm up to:
 
 - :moneybag: Working as a Technical Engineer over at **[Adobe](https://adobe.com)**
-- :rocket: Coding with **[React](https://reactjs.org/)** / JAM Stack
+- :rocket: Coding with **[React](https://reactjs.org/)** / JAM Stack / Deep diving into Framer Motion
 - :book: Working on writing more medium articles **[Medium](https://medium.com/@steven_creates)**
 <details>
   <summary>More Facts</summary>
