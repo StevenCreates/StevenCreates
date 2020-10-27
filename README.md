@@ -6,7 +6,7 @@ Here is what I'm up to:
 
 - :moneybag: Working at **[Adobe](https://adobe.com)**
 - :rocket: Coding with **[React](https://reactjs.org/)** / JAM Stack / Deep diving into Framer Motion
-- :book: Working on writing more medium articles **[Medium](https://medium.com/@steven_creates)**
+- :book: Writing Multilple Medium Articles a Month **[Medium](https://medium.com/@steven_creates)**
 <details>
   <summary>More Facts</summary>
 
