@@ -2,7 +2,7 @@
 
 Life learner | Life is Abundant | Weird Brain :alien:
 
-Here is what I'm up to:
+Here is what I'm up to:::
 
 - :moneybag: Working at **[Adobe](https://adobe.com)**
 - :rocket: Coding with **[React](https://reactjs.org/)** / JAM Stack / Deep diving into Framer Motion
