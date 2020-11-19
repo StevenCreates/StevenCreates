@@ -4,7 +4,7 @@ Life learner | Life is Abundant | Weird Brain :alien:
 
 Here is what I'm up to:
 
-- :moneybag: Working at **[Adobe](https://adobe.com)**
+- :moneybag: Software Engineer at **[BambooHR](https://www.bamboohr.com)**
 - :rocket: Coding with **[React](https://reactjs.org/)** / JAM Stack / Deep diving into Framer Motion
 - :book: Writing Multilple Medium Articles a Month **[Medium](https://medium.com/@steven_creates)**
 <details>
