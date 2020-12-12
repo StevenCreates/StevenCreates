@@ -14,6 +14,7 @@ Here is what I'm up to:
   - I may play a little to much **[Apex Legends](https://apex.tracker.gg/profile/xbl/LEVELxTREE)**
   - I love to draw and create. :pencil2:
   - I love pokemon. 
+  - Email me and tell me your favorite pokemon.
   
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=StevenCreates&show_icons=true&theme=radical)
