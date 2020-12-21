@@ -1,6 +1,6 @@
 
 
-Life learner | Life is Abundant | Weird Brain :alien:
+Life learner - Life is Abundant - Weird Brain :alien:
 
 Here is what I'm up to:
 
