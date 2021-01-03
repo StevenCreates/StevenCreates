@@ -15,7 +15,7 @@ Here is what I'm up to!
 
   - I may play a little to much **[Apex Legends](https://apex.tracker.gg/profile/xbl/LEVELxTREE)**
   - I love to draw and create. :pencil2:
-  - I love pokemon. 
+  - I have two kids Raptor and Zephyr 
   
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=StevenCreates&show_icons=true&theme=radical)
