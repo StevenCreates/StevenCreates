@@ -5,7 +5,7 @@ Life learner - Life is Abundant - Weird Brain :alien:
 Here is what I'm up to!
 
 - :moneybag: Software Engineer at **[BambooHR](https://www.bamboohr.com)**
-- :rocket: Coding with [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/mzstevens69)](https://github.com/mzstevens69)/ JAM Stack / Deep diving into TypeScript and Python
+- :rocket: Coding with [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/StevenCreates)](https://github.com/StevenCreates)/ JAM Stack / Deep diving into TypeScript and Python
 - :book: Writing Multilple Medium Articles a Month **[Medium](https://medium.com/@steven_creates)**
 - :thought_balloon: Have something you would like to see an article/guide written on? Email me!
 
