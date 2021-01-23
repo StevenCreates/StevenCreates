@@ -10,7 +10,7 @@ Here is what I'm up to!
 - :thought_balloon: Have something you would like to see an article/guide written on? Email me!
 
 <details>
-  <summary>More Facts</summary>
+  <summary>More Facts:</summary>
 
 
   - I may play a little to much **[Apex Legends](https://apex.tracker.gg/profile/xbl/LEVELxTREE)**
