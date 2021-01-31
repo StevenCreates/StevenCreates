@@ -15,8 +15,8 @@ Here is what I'm up to!
 
   - I may play a little to much **[Apex Legends](https://apex.tracker.gg/profile/xbl/LEVELxTREE)**
   - I love to draw and create. :pencil2:
-  - I have two kids Raptor and Zephyr 
-  - I also have two doggos Olive and Talula
+  - I have two kids Raptor && Zephyr 
+  - I also have two doggos Olive && Talula
   
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=StevenCreates&show_icons=true&theme=radical)
