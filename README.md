@@ -13,7 +13,7 @@ Life learner - Life is Abundant - Weird Brain :alien:
   <summary>More Facts:</summary>
 
 
-  - I may play a little to much **[Apex Legends](https://apex.tracker.gg/profile/xbl/LEVELxTREE)**
+  - I love Apex Legends **[Apex Legends](https://apex.tracker.gg/profile/xbl/LEVELxTREE)**
   - I love to draw and create :pencil2:
   - I have two incredible kids Raptor && Zephyr 
   - I also have two doggos Olive && Talula
