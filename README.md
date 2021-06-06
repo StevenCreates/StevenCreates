@@ -11,7 +11,7 @@ Here's what I'm up to:
 - :thought_balloon: Have something you would like to see an article/guide written on!? Send me an email!
 
 <details>
-  <summary>More Facts:</summary>
+  <summary>More Facts...</summary>
 
 
   - I love Apex Legends **[Apex Legends](https://apex.tracker.gg/profile/xbl/LEVELxTREE)**
