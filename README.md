@@ -7,7 +7,7 @@ Here's what I'm up to:
 
 - :moneybag: Software Engineer at **[BambooHR](https://www.bamboohr.com)**
 - :rocket: Coding with [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/StevenCreates)](https://github.com/StevenCreates)/ JAM Stack / Deep diving into TypeScript + FramerMotion
-- :book: Writing Medium Articles! Check them out! => **[Articles](https://medium.com/@steven_creates)**
+- :book: Writing Medium Articles! Check them out => **[Articles](https://medium.com/@steven_creates)**
 - :pencil: Checkout my latest **[Article](https://javascript.plainenglish.io/how-to-create-a-toggle-animation-with-framer-motion-and-react-20ac3dae110f)**
 - :thought_balloon: Have something you would like to see an article/guide written on? Send me an email
 
