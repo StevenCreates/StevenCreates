@@ -3,7 +3,7 @@
 
 Life learner - Life is Abundant - Weird Brain :alien:
 
-Here's what I'm up to: 
+Currently Doing:
 
 - :moneybag: Software Engineer at **[BambooHR](https://www.bamboohr.com)**
 - :rocket: Coding with [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/StevenCreates)](https://github.com/StevenCreates)/ JAM Stack / Deep diving into TypeScript + FramerMotion
