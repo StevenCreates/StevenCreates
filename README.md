@@ -13,7 +13,7 @@ Currently Doing:
 - :thought_balloon: Have something you would like to see an article/guide written on? Send me an email
 
 <details>
-  <summary>Outside of Code...</summary>
+  <summary>Outside of Code..</summary>
 
 
   - If I'm not working or with my family I'm probably on the course :golf:
