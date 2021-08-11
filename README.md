@@ -10,7 +10,7 @@ Currently Doing:
 - :diving_mask: Deep diving into Storybook + FramerMotion + Advanced CSS
 - :book: Writing Medium Articles! Check them out => **[Articles](https://medium.com/@steven_creates)**
 - :pencil: Checkout my latest **[Article](https://javascript.plainenglish.io/how-to-create-a-toggle-animation-with-framer-motion-and-react-20ac3dae110f)**!
-- :thought_balloon: Have something you would like to see an article/guide written on? Send me an email
+- :thought_balloon: Have something you would like to see an article/guide written on? Send me an email!
 
 <details>
   <summary>Outside of Software..</summary>
