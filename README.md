@@ -5,7 +5,7 @@ Life learner - Life is Abundant - Weird Brain :alien:
 
 Currently Doing:
 
-- :moneybag: Software Engineer at **[MX](https://www.mx.com/products/pfm/)**
+- :moneybag: Software Engineer at **[MX!](https://www.mx.com/products/pfm/)**
 - :rocket: Coding with [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/StevenCreates)](https://github.com/StevenCreates)/ JAM Stack
 - :diving_mask: Deep diving into Storybook + FramerMotion + Advanced CSS
 - :book: Writing Medium Articles! Check them out => **[Articles](https://medium.com/@steven_creates)**
