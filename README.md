@@ -16,6 +16,7 @@ Currently Doing:
   <summary>Outside of Software..</summary>
 
 
+  - DayTrading Crypto.. with some HODL
   - If I'm not working or with my family I'm probably on the course :golf:
   - I love Apex Legends **[Apex Legends](https://apex.tracker.gg/profile/xbl/LEVELxTREE)**
   - I love to draw and create :pencil2:
