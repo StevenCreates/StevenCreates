@@ -16,7 +16,7 @@ Life learner - Life is Abundant - Weird Brain :alien:
 
   - DayTrading Crypto.. with some HODL
   - If I'm not working or with my family I'm probably on the course :golf:
-  - I love Apex Legends **[Apex Legends](https://apex.tracker.gg/profile/xbl/LEVELxTREE)**
+  - I love Apex Legends **[Apex Legends]([https://apex.tracker.gg/profile/xbl/LEVELxTREE](https://apex.tracker.gg/apex/profile/xbl/thisSlaps/overview))**
   - I love to draw and create :pencil2:
   - I have two incredible kids Raptor && Zephyr 
   - I also have two doggos Olive && Talula
