@@ -4,7 +4,7 @@
 Life learner - Life is Abundant - Weird Brain :alien:
 
 - :moneybag: Software Engineer at **[BambooHR](https://www.bamboohr.com/)**
-- :rocket: Coding with [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/StevenCreates)](https://github.com/StevenCreates)/and building new apps with Remix!
+- :rocket: Coding with [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/StevenCreates)](https://github.com/StevenCreates)!
 - :diving_mask: Deep diving into Storybook + FramerMotion + Advanced CSS
 - :book: Writing Medium Articles! Check them out => **[Articles](https://medium.com/@steven_creates)**
 - :pencil: Checkout my latest **[Article](https://javascript.plainenglish.io/how-to-create-a-toggle-animation-with-framer-motion-and-react-20ac3dae110f)**!
