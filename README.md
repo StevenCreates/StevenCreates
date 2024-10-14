@@ -3,7 +3,7 @@
 
 Life learner - Life is Abundant - Weird Brain :alien:
 
-- :moneybag: Senior Software Engineer at **[DOMO](https://www.domo.com/)** Commits to work show up in work account
+- :moneybag: Senior Software Engineer at **[DOMO](https://www.domo.com/)** Commits to work show up in work account https://git.empdev.domo.com/steven-hofheins
 - :rocket: Coding with [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/StevenCreates)](https://github.com/StevenCreates)!
 - :diving_mask: Deep diving into Storybook + FramerMotion + Advanced CSS
 - :book: Writing Medium Articles! Check them out => **[Articles](https://medium.com/@steven_creates)**
