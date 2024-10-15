@@ -17,7 +17,7 @@ Life learner - Life is Abundant - Weird Brain :alien:
   - If I'm not working or with my family I'm probably on the course :golf:
   - I love Apex Legends **[Apex Legends](https://apex.tracker.gg/apex/profile/xbl/thisSlaps/overview)**!
   - I love to draw and create :pencil2:
-  - I have two incredible kids Raptor && Zephyr 
+  - I have three incredible kids Raptor && Zephyr && Loxi
   - I also have three doggos Olive && Talula && Mango
   
 
