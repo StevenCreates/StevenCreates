@@ -14,11 +14,11 @@ Life learner - Life is Abundant - Weird Brain :alien:
   <summary>Outside of Software..</summary>
 
   - DayTrading Crypto.. with some HODL
-  - If I'm not working or with my family I'm probably on the course :golf:
+  - If I'm not working or with my family I'm probably on the course :golf: or lifting weights 🏋️‍♂️
   - I love Apex Legends **[Apex Legends](https://apex.tracker.gg/apex/profile/xbl/thisSlaps/overview)**!
   - I love to draw and create :pencil2:
   - I have three incredible kids Raptor && Zephyr && Loxi
-  - I also have three doggos Olive && Talula && Mango
+  - I also have three doggos Olive && Talula && Mango 
   
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=StevenCreates&show_icons=true&theme=radical)
