@@ -3,7 +3,7 @@
 
 Life learner - Life is Abundant - Weird Brain :alien:
 
-- :moneybag: Senior Software Engineer at **[NetDocuments](https://www.domo.com/)**
+- :moneybag: Senior Software Engineer at **[NetDocuments](https://www.netdocuments.com/)**
 - :rocket: Coding with [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/StevenCreates)](https://github.com/StevenCreates)!
 - :diving_mask: Deep diving into Storybook + FramerMotion + Advanced CSS
 - :book: Writing Medium Articles! Check them out => **[Articles](https://medium.com/@steven_creates)**
